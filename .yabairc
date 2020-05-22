@@ -1,5 +1,3 @@
-\#!/usr/bin/env sh
-
 # bar settings
 yabai -m config status_bar                   off
 yabai -m config status_bar_text_font         "Andale Mono:12.0"
